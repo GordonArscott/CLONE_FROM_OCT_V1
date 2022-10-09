@@ -1,0 +1,1 @@
+product: umbrella, price: 5
